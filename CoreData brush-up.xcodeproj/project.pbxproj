@@ -56,8 +56,8 @@
 		299046E6215E90B8007A056B /* CoreData brush-up */ = {
 			isa = PBXGroup;
 			children = (
+				299046FC215E922B007A056B /* Controller */,
 				299046E7215E90B8007A056B /* AppDelegate.swift */,
-				299046E9215E90B8007A056B /* ViewController.swift */,
 				299046EB215E90B8007A056B /* Main.storyboard */,
 				299046F1215E90B9007A056B /* Assets.xcassets */,
 				299046F3215E90B9007A056B /* LaunchScreen.storyboard */,
@@ -65,6 +65,14 @@
 				299046EE215E90B8007A056B /* CoreData_brush_up.xcdatamodeld */,
 			);
 			path = "CoreData brush-up";
+			sourceTree = "<group>";
+		};
+		299046FC215E922B007A056B /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				299046E9215E90B8007A056B /* ViewController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
